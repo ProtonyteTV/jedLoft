@@ -70,7 +70,7 @@ jedLoft is a simple iOS app for pigeon hobbyists to manage their flock. You can 
 
 ---
 
-### © 2025 jedPlatforms. All Rights Reserved.
+### 2025 jedPlatforms. All Rights Reserved.
 
 **Notice of Proprietary Rights**  
 jedLoft is proprietary software. All rights remain with jedPlatforms. The app is for personal use only — do not copy, redistribute, or modify without permission. 💡
