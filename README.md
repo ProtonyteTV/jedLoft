@@ -36,7 +36,7 @@
 
 
 
-jedLoft is a comprehensive iOS application designed for pigeon hobbyists and racers to manage every aspect of their flock. The app provides a suite of powerful tools for tracking pigeon profiles, logging flight performance, and managing complex breeding programs. It is built as an offline-first utility, ensuring all user data is stored securely and privately on the user's device.
+jedLoft is a simple iOS application designed for pigeon hobbyists to keep track of their flock. It provides easy-to-use tools for managing pigeon profiles, logging their flight times, and tracking breeding pairs. The app is built to be offline-first, meaning all your data is stored securely and privately right on your device.
 
 
 
